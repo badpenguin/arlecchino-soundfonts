@@ -1,0 +1,1942 @@
+{
+ "version": 2,
+ "base": "MSB",
+ "pos": 0,
+ "groups": {
+  "gm000": {
+   "kind": "gm",
+   "target": [
+    0,
+    0
+   ],
+   "title": "GM 0:0 Acoustic Grand Piano",
+   "sid": "FR3",
+   "bank": 0,
+   "prog": 0,
+   "name": "Yamaha Grand Piano",
+   "lic": "MIT",
+   "db": -2.6,
+   "explicit": true
+  },
+  "gm001": {
+   "kind": "gm",
+   "target": [
+    0,
+    1
+   ],
+   "title": "GM 0:1 Bright Acoustic Piano",
+   "sid": "FR3",
+   "bank": 0,
+   "prog": 1,
+   "name": "Bright Yamaha Grand",
+   "lic": "MIT",
+   "db": -3.5,
+   "explicit": true
+  },
+  "gm002": {
+   "kind": "gm",
+   "target": [
+    0,
+    2
+   ],
+   "title": "GM 0:2 Electric Grand Piano",
+   "sid": "GU",
+   "bank": 0,
+   "prog": 2,
+   "name": "Electric Grand Piano",
+   "lic": "GeneralUser GS v2.0",
+   "db": -1.9,
+   "explicit": true
+  },
+  "gm003": {
+   "kind": "gm",
+   "target": [
+    0,
+    3
+   ],
+   "title": "GM 0:3 Honky-tonk Piano",
+   "sid": "FR3",
+   "bank": 0,
+   "prog": 3,
+   "name": "Honky Tonk",
+   "lic": "MIT",
+   "db": -3.4,
+   "explicit": true
+  },
+  "gm004": {
+   "kind": "gm",
+   "target": [
+    0,
+    4
+   ],
+   "title": "GM 0:4 Electric Piano 1",
+   "sid": "FR3",
+   "bank": 0,
+   "prog": 4,
+   "name": "Rhodes EP",
+   "lic": "MIT",
+   "db": -3.4,
+   "explicit": true
+  },
+  "gm005": {
+   "kind": "gm",
+   "target": [
+    0,
+    5
+   ],
+   "title": "GM 0:5 Electric Piano 2",
+   "sid": "FR3",
+   "bank": 0,
+   "prog": 5,
+   "name": "Legend EP 2",
+   "lic": "MIT",
+   "db": -2.5,
+   "explicit": true
+  },
+  "gm006": {
+   "kind": "gm",
+   "target": [
+    0,
+    6
+   ],
+   "title": "GM 0:6 Harpsichord",
+   "sid": "FR3",
+   "bank": 0,
+   "prog": 6,
+   "name": "Harpsichord",
+   "lic": "MIT",
+   "db": -7.2,
+   "explicit": true
+  },
+  "gm007": {
+   "kind": "gm",
+   "target": [
+    0,
+    7
+   ],
+   "title": "GM 0:7 Clavinet",
+   "sid": "MSB",
+   "bank": 0,
+   "prog": 7,
+   "name": "Clavinet",
+   "lic": "MIT",
+   "db": 0.0,
+   "explicit": true
+  },
+  "gm008": {
+   "kind": "gm",
+   "target": [
+    0,
+    8
+   ],
+   "title": "GM 0:8 Celesta",
+   "sid": "FR3",
+   "bank": 0,
+   "prog": 8,
+   "name": "Celesta",
+   "lic": "MIT",
+   "db": -5.3,
+   "explicit": true
+  },
+  "gm009": {
+   "kind": "gm",
+   "target": [
+    0,
+    9
+   ],
+   "title": "GM 0:9 Glockenspiel",
+   "sid": "FR3",
+   "bank": 0,
+   "prog": 9,
+   "name": "Glockenspiel",
+   "lic": "MIT",
+   "db": -4.7,
+   "explicit": true
+  },
+  "gm010": {
+   "kind": "gm",
+   "target": [
+    0,
+    10
+   ],
+   "title": "GM 0:10 Music Box",
+   "sid": "GU",
+   "bank": 12,
+   "prog": 10,
+   "name": "Christmas Bells",
+   "lic": "GeneralUser GS v2.0",
+   "db": -5.4,
+   "explicit": true
+  },
+  "gm011": {
+   "kind": "gm",
+   "target": [
+    0,
+    11
+   ],
+   "title": "GM 0:11 Vibraphone",
+   "sid": "GU",
+   "bank": 11,
+   "prog": 11,
+   "name": "Vibraphone No Trem.",
+   "lic": "GeneralUser GS v2.0",
+   "db": -6.2,
+   "explicit": true
+  },
+  "gm012": {
+   "kind": "gm",
+   "target": [
+    0,
+    12
+   ],
+   "title": "GM 0:12 Marimba",
+   "sid": "FR3",
+   "bank": 0,
+   "prog": 12,
+   "name": "Marimba",
+   "lic": "MIT",
+   "db": -3.8,
+   "explicit": true
+  },
+  "gm013": {
+   "kind": "gm",
+   "target": [
+    0,
+    13
+   ],
+   "title": "GM 0:13 Xylophone",
+   "sid": "FR3M",
+   "bank": 0,
+   "prog": 13,
+   "name": "Xylophone",
+   "lic": "MIT",
+   "db": 0.0,
+   "explicit": true
+  },
+  "gm014": {
+   "kind": "gm",
+   "target": [
+    0,
+    14
+   ],
+   "title": "GM 0:14 Tubular Bells",
+   "sid": "FR3",
+   "bank": 0,
+   "prog": 14,
+   "name": "Tubular Bells",
+   "lic": "MIT",
+   "db": -3.5,
+   "explicit": true
+  },
+  "gm015": {
+   "kind": "gm",
+   "target": [
+    0,
+    15
+   ],
+   "title": "GM 0:15 Dulcimer",
+   "sid": "GU",
+   "bank": 0,
+   "prog": 15,
+   "name": "Dulcimer",
+   "lic": "GeneralUser GS v2.0",
+   "db": -2.9,
+   "explicit": true
+  },
+  "gm016": {
+   "kind": "gm",
+   "target": [
+    0,
+    16
+   ],
+   "title": "GM 0:16 Drawbar Organ",
+   "sid": "GU",
+   "bank": 0,
+   "prog": 16,
+   "name": "Tonewheel Organ",
+   "lic": "GeneralUser GS v2.0",
+   "db": -2.5,
+   "explicit": true
+  },
+  "gm017": {
+   "kind": "gm",
+   "target": [
+    0,
+    17
+   ],
+   "title": "GM 0:17 Percussive Organ",
+   "sid": "GU",
+   "bank": 0,
+   "prog": 17,
+   "name": "Percussive Organ",
+   "lic": "GeneralUser GS v2.0",
+   "db": 0.0,
+   "explicit": true
+  },
+  "gm018": {
+   "kind": "gm",
+   "target": [
+    0,
+    18
+   ],
+   "title": "GM 0:18 Rock Organ",
+   "sid": "GU",
+   "bank": 0,
+   "prog": 18,
+   "name": "Rock Organ",
+   "lic": "GeneralUser GS v2.0",
+   "db": -1.1,
+   "explicit": true
+  },
+  "gm019": {
+   "kind": "gm",
+   "target": [
+    0,
+    19
+   ],
+   "title": "GM 0:19 Church Organ",
+   "sid": "GU",
+   "bank": 0,
+   "prog": 19,
+   "name": "Pipe Organ",
+   "lic": "GeneralUser GS v2.0",
+   "db": 0.0,
+   "explicit": true
+  },
+  "gm020": {
+   "kind": "gm",
+   "target": [
+    0,
+    20
+   ],
+   "title": "GM 0:20 Reed Organ",
+   "sid": "MSB",
+   "bank": 0,
+   "prog": 20,
+   "name": "Reed Organ",
+   "lic": "MIT",
+   "db": 0.0,
+   "explicit": true
+  },
+  "gm021": {
+   "kind": "gm",
+   "target": [
+    0,
+    21
+   ],
+   "title": "GM 0:21 Accordion",
+   "sid": "MSB",
+   "bank": 8,
+   "prog": 21,
+   "name": "Italian Accordion",
+   "lic": "MIT",
+   "db": -1.2,
+   "explicit": true
+  },
+  "gm022": {
+   "kind": "gm",
+   "target": [
+    0,
+    22
+   ],
+   "title": "GM 0:22 Harmonica",
+   "sid": "GU",
+   "bank": 0,
+   "prog": 22,
+   "name": "Harmonica",
+   "lic": "GeneralUser GS v2.0",
+   "db": -1.5,
+   "explicit": true
+  },
+  "gm023": {
+   "kind": "gm",
+   "target": [
+    0,
+    23
+   ],
+   "title": "GM 0:23 Tango Accordion",
+   "sid": "GU",
+   "bank": 0,
+   "prog": 23,
+   "name": "Bandoneon",
+   "lic": "GeneralUser GS v2.0",
+   "db": -1.2,
+   "explicit": true
+  },
+  "gm024": {
+   "kind": "gm",
+   "target": [
+    0,
+    24
+   ],
+   "title": "GM 0:24 Acoustic Guitar (nylon)",
+   "sid": "FP",
+   "bank": 0,
+   "prog": 24,
+   "name": "Nylon-String Guitar",
+   "lic": "CC0-1.0",
+   "db": -4.4,
+   "explicit": true
+  },
+  "gm025": {
+   "kind": "gm",
+   "target": [
+    0,
+    25
+   ],
+   "title": "GM 0:25 Acoustic Guitar (steel)",
+   "sid": "FP",
+   "bank": 0,
+   "prog": 25,
+   "name": "Steel-String Guitar",
+   "lic": "GPL-3.0+ con eccezione",
+   "db": -11.0,
+   "explicit": true
+  },
+  "gm026": {
+   "kind": "gm",
+   "target": [
+    0,
+    26
+   ],
+   "title": "GM 0:26 Electric Guitar (jazz)",
+   "sid": "FR3",
+   "bank": 0,
+   "prog": 26,
+   "name": "Jazz Guitar",
+   "lic": "MIT",
+   "db": -5.4,
+   "explicit": true
+  },
+  "gm027": {
+   "kind": "gm",
+   "target": [
+    0,
+    27
+   ],
+   "title": "GM 0:27 Electric Guitar (clean)",
+   "sid": "FP",
+   "bank": 0,
+   "prog": 27,
+   "name": "E. Guitar Clean",
+   "lic": "CC0-1.0",
+   "db": -2.3,
+   "explicit": true
+  },
+  "gm028": {
+   "kind": "gm",
+   "target": [
+    0,
+    28
+   ],
+   "title": "GM 0:28 Electric Guitar (muted)",
+   "sid": "MSB",
+   "bank": 0,
+   "prog": 28,
+   "name": "Palm Muted Guitar",
+   "lic": "MIT",
+   "db": 0.0,
+   "explicit": true
+  },
+  "gm029": {
+   "kind": "gm",
+   "target": [
+    0,
+    29
+   ],
+   "title": "GM 0:29 Overdriven Guitar",
+   "sid": "FR3",
+   "bank": 0,
+   "prog": 29,
+   "name": "Overdrive Guitar",
+   "lic": "MIT",
+   "db": -7.2,
+   "explicit": true
+  },
+  "gm030": {
+   "kind": "gm",
+   "target": [
+    0,
+    30
+   ],
+   "title": "GM 0:30 Distortion Guitar",
+   "sid": "FR3",
+   "bank": 8,
+   "prog": 30,
+   "name": "Feedback Guitar",
+   "lic": "MIT",
+   "db": -9.1,
+   "explicit": true
+  },
+  "gm031": {
+   "kind": "gm",
+   "target": [
+    0,
+    31
+   ],
+   "title": "GM 0:31 Guitar Harmonics",
+   "sid": "FR3M",
+   "bank": 0,
+   "prog": 31,
+   "name": "Guitar Harmonics",
+   "lic": "MIT",
+   "db": -1.0,
+   "explicit": true
+  },
+  "gm032": {
+   "kind": "gm",
+   "target": [
+    0,
+    32
+   ],
+   "title": "GM 0:32 Acoustic Bass",
+   "sid": "FR3",
+   "bank": 0,
+   "prog": 32,
+   "name": "Acoustic Bass",
+   "lic": "MIT",
+   "db": -1.1,
+   "explicit": true
+  },
+  "gm033": {
+   "kind": "gm",
+   "target": [
+    0,
+    33
+   ],
+   "title": "GM 0:33 Electric Bass (finger)",
+   "sid": "FP",
+   "bank": 0,
+   "prog": 33,
+   "name": "Electric Bass 1",
+   "lic": "GPL-3.0+ con eccezione",
+   "db": -5.2,
+   "explicit": true
+  },
+  "gm034": {
+   "kind": "gm",
+   "target": [
+    0,
+    34
+   ],
+   "title": "GM 0:34 Electric Bass (pick)",
+   "sid": "FR3",
+   "bank": 0,
+   "prog": 34,
+   "name": "Picked Bass",
+   "lic": "MIT",
+   "db": -1.1,
+   "explicit": true
+  },
+  "gm035": {
+   "kind": "gm",
+   "target": [
+    0,
+    35
+   ],
+   "title": "GM 0:35 Fretless Bass",
+   "sid": "GU",
+   "bank": 0,
+   "prog": 35,
+   "name": "Fretless Bass",
+   "lic": "GeneralUser GS v2.0",
+   "db": -2.9,
+   "explicit": true
+  },
+  "gm036": {
+   "kind": "gm",
+   "target": [
+    0,
+    36
+   ],
+   "title": "GM 0:36 Slap Bass 1",
+   "sid": "GU",
+   "bank": 0,
+   "prog": 36,
+   "name": "Slap Bass 1",
+   "lic": "GeneralUser GS v2.0",
+   "db": -1.0,
+   "explicit": true
+  },
+  "gm037": {
+   "kind": "gm",
+   "target": [
+    0,
+    37
+   ],
+   "title": "GM 0:37 Slap Bass 2",
+   "sid": "FR3",
+   "bank": 0,
+   "prog": 37,
+   "name": "Pop Bass",
+   "lic": "MIT",
+   "db": 0.0,
+   "explicit": true
+  },
+  "gm038": {
+   "kind": "gm",
+   "target": [
+    0,
+    38
+   ],
+   "title": "GM 0:38 Synth Bass 1",
+   "sid": "GU",
+   "bank": 0,
+   "prog": 38,
+   "name": "Synth Bass 1",
+   "lic": "GeneralUser GS v2.0",
+   "db": -1.9,
+   "explicit": true
+  },
+  "gm039": {
+   "kind": "gm",
+   "target": [
+    0,
+    39
+   ],
+   "title": "GM 0:39 Synth Bass 2",
+   "sid": "FR3",
+   "bank": 8,
+   "prog": 39,
+   "name": "Synth Bass 4",
+   "lic": "MIT",
+   "db": -4.3,
+   "explicit": true
+  },
+  "gm040": {
+   "kind": "gm",
+   "target": [
+    0,
+    40
+   ],
+   "title": "GM 0:40 Violin",
+   "sid": "GU",
+   "bank": 0,
+   "prog": 40,
+   "name": "Violin",
+   "lic": "GeneralUser GS v2.0",
+   "db": -3.0,
+   "explicit": true
+  },
+  "gm041": {
+   "kind": "gm",
+   "target": [
+    0,
+    41
+   ],
+   "title": "GM 0:41 Viola",
+   "sid": "FR3",
+   "bank": 0,
+   "prog": 41,
+   "name": "Viola",
+   "lic": "MIT",
+   "db": -1.1,
+   "explicit": true
+  },
+  "gm042": {
+   "kind": "gm",
+   "target": [
+    0,
+    42
+   ],
+   "title": "GM 0:42 Cello",
+   "sid": "FR3",
+   "bank": 0,
+   "prog": 42,
+   "name": "Cello",
+   "lic": "MIT",
+   "db": 0.0,
+   "explicit": true
+  },
+  "gm043": {
+   "kind": "gm",
+   "target": [
+    0,
+    43
+   ],
+   "title": "GM 0:43 Contrabass",
+   "sid": "MSB",
+   "bank": 0,
+   "prog": 43,
+   "name": "Contrabass",
+   "lic": "MIT",
+   "db": 0.0,
+   "explicit": true
+  },
+  "gm044": {
+   "kind": "gm",
+   "target": [
+    0,
+    44
+   ],
+   "title": "GM 0:44 Tremolo Strings",
+   "sid": "MSB",
+   "bank": 0,
+   "prog": 44,
+   "name": "Strings Tremolo",
+   "lic": "MIT",
+   "db": 0.0,
+   "explicit": true
+  },
+  "gm045": {
+   "kind": "gm",
+   "target": [
+    0,
+    45
+   ],
+   "title": "GM 0:45 Pizzicato Strings",
+   "sid": "GU",
+   "bank": 0,
+   "prog": 45,
+   "name": "Pizzicato Strings",
+   "lic": "GeneralUser GS v2.0",
+   "db": -6.1,
+   "explicit": true
+  },
+  "gm046": {
+   "kind": "gm",
+   "target": [
+    0,
+    46
+   ],
+   "title": "GM 0:46 Orchestral Harp",
+   "sid": "GU",
+   "bank": 0,
+   "prog": 46,
+   "name": "Orchestral Harp",
+   "lic": "GeneralUser GS v2.0",
+   "db": -3.4,
+   "explicit": true
+  },
+  "gm047": {
+   "kind": "gm",
+   "target": [
+    0,
+    47
+   ],
+   "title": "GM 0:47 Timpani",
+   "sid": "FR3",
+   "bank": 0,
+   "prog": 47,
+   "name": "Timpani",
+   "lic": "MIT",
+   "db": 1.3,
+   "explicit": true
+  },
+  "gm048": {
+   "kind": "gm",
+   "target": [
+    0,
+    48
+   ],
+   "title": "GM 0:48 String Ensemble 1",
+   "sid": "MSB",
+   "bank": 0,
+   "prog": 48,
+   "name": "Strings Fast",
+   "lic": "MIT",
+   "db": 0.0,
+   "explicit": true
+  },
+  "gm049": {
+   "kind": "gm",
+   "target": [
+    0,
+    49
+   ],
+   "title": "GM 0:49 String Ensemble 2",
+   "sid": "MSB",
+   "bank": 0,
+   "prog": 49,
+   "name": "Strings Slow",
+   "lic": "MIT",
+   "db": 0.0,
+   "explicit": true
+  },
+  "gm050": {
+   "kind": "gm",
+   "target": [
+    0,
+    50
+   ],
+   "title": "GM 0:50 Synth Strings 1",
+   "sid": "FR3M",
+   "bank": 0,
+   "prog": 50,
+   "name": "Synth Strings 1",
+   "lic": "MIT",
+   "db": 0.0,
+   "explicit": true
+  },
+  "gm051": {
+   "kind": "gm",
+   "target": [
+    0,
+    51
+   ],
+   "title": "GM 0:51 Synth Strings 2",
+   "sid": "FR3M",
+   "bank": 0,
+   "prog": 51,
+   "name": "Synth Strings 2",
+   "lic": "MIT",
+   "db": 0.0,
+   "explicit": true
+  },
+  "gm052": {
+   "kind": "gm",
+   "target": [
+    0,
+    52
+   ],
+   "title": "GM 0:52 Choir Aahs",
+   "sid": "FR3",
+   "bank": 0,
+   "prog": 52,
+   "name": "Ahh Choir",
+   "lic": "MIT",
+   "db": -4.1,
+   "explicit": true
+  },
+  "gm053": {
+   "kind": "gm",
+   "target": [
+    0,
+    53
+   ],
+   "title": "GM 0:53 Voice Oohs",
+   "sid": "FR3",
+   "bank": 0,
+   "prog": 53,
+   "name": "Ohh Voices",
+   "lic": "MIT",
+   "db": -4.1,
+   "explicit": true
+  },
+  "gm054": {
+   "kind": "gm",
+   "target": [
+    0,
+    54
+   ],
+   "title": "GM 0:54 Synth Voice",
+   "sid": "GU",
+   "bank": 0,
+   "prog": 54,
+   "name": "Synth Voice",
+   "lic": "GeneralUser GS v2.0",
+   "db": 1.4,
+   "explicit": true
+  },
+  "gm055": {
+   "kind": "gm",
+   "target": [
+    0,
+    55
+   ],
+   "title": "GM 0:55 Orchestra Hit",
+   "sid": "GU",
+   "bank": 0,
+   "prog": 55,
+   "name": "Orchestra Hit",
+   "lic": "GeneralUser GS v2.0",
+   "db": -1.7,
+   "explicit": true
+  },
+  "gm056": {
+   "kind": "gm",
+   "target": [
+    0,
+    56
+   ],
+   "title": "GM 0:56 Trumpet",
+   "sid": "GU",
+   "bank": 0,
+   "prog": 56,
+   "name": "Trumpet",
+   "lic": "GeneralUser GS v2.0",
+   "db": 0.0,
+   "explicit": true
+  },
+  "gm057": {
+   "kind": "gm",
+   "target": [
+    0,
+    57
+   ],
+   "title": "GM 0:57 Trombone",
+   "sid": "FR3",
+   "bank": 0,
+   "prog": 57,
+   "name": "Trombone",
+   "lic": "MIT",
+   "db": 0.0,
+   "explicit": true
+  },
+  "gm058": {
+   "kind": "gm",
+   "target": [
+    0,
+    58
+   ],
+   "title": "GM 0:58 Tuba",
+   "sid": "FR3",
+   "bank": 0,
+   "prog": 58,
+   "name": "Tuba",
+   "lic": "MIT",
+   "db": 0.0,
+   "explicit": true
+  },
+  "gm059": {
+   "kind": "gm",
+   "target": [
+    0,
+    59
+   ],
+   "title": "GM 0:59 Muted Trumpet",
+   "sid": "FR3",
+   "bank": 0,
+   "prog": 59,
+   "name": "Muted Trumpet",
+   "lic": "MIT",
+   "db": -3.6,
+   "explicit": true
+  },
+  "gm060": {
+   "kind": "gm",
+   "target": [
+    0,
+    60
+   ],
+   "title": "GM 0:60 French Horn",
+   "sid": "GU",
+   "bank": 1,
+   "prog": 60,
+   "name": "Solo French Horn",
+   "lic": "GeneralUser GS v2.0",
+   "db": -4.2,
+   "explicit": true
+  },
+  "gm061": {
+   "kind": "gm",
+   "target": [
+    0,
+    61
+   ],
+   "title": "GM 0:61 Brass Section",
+   "sid": "FR3",
+   "bank": 0,
+   "prog": 61,
+   "name": "Brass Section",
+   "lic": "MIT",
+   "db": -2.6,
+   "explicit": true
+  },
+  "gm062": {
+   "kind": "gm",
+   "target": [
+    0,
+    62
+   ],
+   "title": "GM 0:62 Synth Brass 1",
+   "sid": "GU",
+   "bank": 0,
+   "prog": 62,
+   "name": "Synth Brass 1",
+   "lic": "GeneralUser GS v2.0",
+   "db": 0.0,
+   "explicit": true
+  },
+  "gm063": {
+   "kind": "gm",
+   "target": [
+    0,
+    63
+   ],
+   "title": "GM 0:63 Synth Brass 2",
+   "sid": "GU",
+   "bank": 0,
+   "prog": 63,
+   "name": "Synth Brass 2",
+   "lic": "GeneralUser GS v2.0",
+   "db": -2.1,
+   "explicit": true
+  },
+  "gm064": {
+   "kind": "gm",
+   "target": [
+    0,
+    64
+   ],
+   "title": "GM 0:64 Soprano Sax",
+   "sid": "FR3",
+   "bank": 0,
+   "prog": 64,
+   "name": "Soprano Sax",
+   "lic": "MIT",
+   "db": -4.2,
+   "explicit": true
+  },
+  "gm065": {
+   "kind": "gm",
+   "target": [
+    0,
+    65
+   ],
+   "title": "GM 0:65 Alto Sax",
+   "sid": "FR3",
+   "bank": 0,
+   "prog": 65,
+   "name": "Alto Sax",
+   "lic": "MIT",
+   "db": -4.0,
+   "explicit": true
+  },
+  "gm066": {
+   "kind": "gm",
+   "target": [
+    0,
+    66
+   ],
+   "title": "GM 0:66 Tenor Sax",
+   "sid": "FR3",
+   "bank": 0,
+   "prog": 66,
+   "name": "Tenor Sax",
+   "lic": "MIT",
+   "db": -3.7,
+   "explicit": true
+  },
+  "gm067": {
+   "kind": "gm",
+   "target": [
+    0,
+    67
+   ],
+   "title": "GM 0:67 Baritone Sax",
+   "sid": "FR3",
+   "bank": 0,
+   "prog": 67,
+   "name": "Baritone Sax",
+   "lic": "MIT",
+   "db": -4.5,
+   "explicit": true
+  },
+  "gm068": {
+   "kind": "gm",
+   "target": [
+    0,
+    68
+   ],
+   "title": "GM 0:68 Oboe",
+   "sid": "FR3",
+   "bank": 0,
+   "prog": 68,
+   "name": "Oboe",
+   "lic": "MIT",
+   "db": -2.6,
+   "explicit": true
+  },
+  "gm069": {
+   "kind": "gm",
+   "target": [
+    0,
+    69
+   ],
+   "title": "GM 0:69 English Horn",
+   "sid": "FR3",
+   "bank": 0,
+   "prog": 69,
+   "name": "English Horn",
+   "lic": "MIT",
+   "db": -5.9,
+   "explicit": true
+  },
+  "gm070": {
+   "kind": "gm",
+   "target": [
+    0,
+    70
+   ],
+   "title": "GM 0:70 Bassoon",
+   "sid": "FR3",
+   "bank": 0,
+   "prog": 70,
+   "name": "Bassoon",
+   "lic": "MIT",
+   "db": -2.2,
+   "explicit": true
+  },
+  "gm071": {
+   "kind": "gm",
+   "target": [
+    0,
+    71
+   ],
+   "title": "GM 0:71 Clarinet",
+   "sid": "FR3",
+   "bank": 0,
+   "prog": 71,
+   "name": "Clarinet",
+   "lic": "MIT",
+   "db": -6.2,
+   "explicit": true
+  },
+  "gm072": {
+   "kind": "gm",
+   "target": [
+    0,
+    72
+   ],
+   "title": "GM 0:72 Piccolo",
+   "sid": "FR3",
+   "bank": 0,
+   "prog": 72,
+   "name": "Piccolo",
+   "lic": "MIT",
+   "db": -3.3,
+   "explicit": true
+  },
+  "gm073": {
+   "kind": "gm",
+   "target": [
+    0,
+    73
+   ],
+   "title": "GM 0:73 Flute",
+   "sid": "FR3",
+   "bank": 0,
+   "prog": 73,
+   "name": "Flute",
+   "lic": "MIT",
+   "db": -3.0,
+   "explicit": true
+  },
+  "gm074": {
+   "kind": "gm",
+   "target": [
+    0,
+    74
+   ],
+   "title": "GM 0:74 Recorder",
+   "sid": "MSB",
+   "bank": 0,
+   "prog": 74,
+   "name": "Recorder",
+   "lic": "MIT",
+   "db": 0.0,
+   "explicit": true
+  },
+  "gm075": {
+   "kind": "gm",
+   "target": [
+    0,
+    75
+   ],
+   "title": "GM 0:75 Pan Flute",
+   "sid": "FR3",
+   "bank": 0,
+   "prog": 75,
+   "name": "Pan Flute",
+   "lic": "MIT",
+   "db": -4.2,
+   "explicit": true
+  },
+  "gm076": {
+   "kind": "gm",
+   "target": [
+    0,
+    76
+   ],
+   "title": "GM 0:76 Blown Bottle",
+   "sid": "FR3",
+   "bank": 0,
+   "prog": 76,
+   "name": "Bottle Chiff",
+   "lic": "MIT",
+   "db": -4.2,
+   "explicit": true
+  },
+  "gm077": {
+   "kind": "gm",
+   "target": [
+    0,
+    77
+   ],
+   "title": "GM 0:77 Shakuhachi",
+   "sid": "GU",
+   "bank": 0,
+   "prog": 77,
+   "name": "Shakuhachi",
+   "lic": "GeneralUser GS v2.0",
+   "db": 3.0,
+   "explicit": true
+  },
+  "gm078": {
+   "kind": "gm",
+   "target": [
+    0,
+    78
+   ],
+   "title": "GM 0:78 Whistle",
+   "sid": "GU",
+   "bank": 0,
+   "prog": 78,
+   "name": "Whistle",
+   "lic": "GeneralUser GS v2.0",
+   "db": -4.0,
+   "explicit": true
+  },
+  "gm079": {
+   "kind": "gm",
+   "target": [
+    0,
+    79
+   ],
+   "title": "GM 0:79 Ocarina",
+   "sid": "GU",
+   "bank": 0,
+   "prog": 79,
+   "name": "Ocarina",
+   "lic": "GeneralUser GS v2.0",
+   "db": -2.0,
+   "explicit": true
+  },
+  "gm080": {
+   "kind": "gm",
+   "target": [
+    0,
+    80
+   ],
+   "title": "GM 0:80 Lead 1 (square)",
+   "sid": "FP",
+   "bank": 0,
+   "prog": 80,
+   "name": "Synth Square",
+   "lic": "CC0-1.0",
+   "db": -6.0,
+   "explicit": true
+  },
+  "gm081": {
+   "kind": "gm",
+   "target": [
+    0,
+    81
+   ],
+   "title": "GM 0:81 Lead 2 (sawtooth)",
+   "sid": "GU",
+   "bank": 0,
+   "prog": 81,
+   "name": "Saw Lead",
+   "lic": "GeneralUser GS v2.0",
+   "db": 0.0,
+   "explicit": true
+  },
+  "gm082": {
+   "kind": "gm",
+   "target": [
+    0,
+    82
+   ],
+   "title": "GM 0:82 Lead 3 (calliope)",
+   "sid": "FR3M",
+   "bank": 0,
+   "prog": 82,
+   "name": "Calliope Lead",
+   "lic": "MIT",
+   "db": -1.6,
+   "explicit": true
+  },
+  "gm083": {
+   "kind": "gm",
+   "target": [
+    0,
+    83
+   ],
+   "title": "GM 0:83 Lead 4 (chiff)",
+   "sid": "FR3",
+   "bank": 0,
+   "prog": 83,
+   "name": "Chiffer Lead",
+   "lic": "MIT",
+   "db": 0.0,
+   "explicit": true
+  },
+  "gm084": {
+   "kind": "gm",
+   "target": [
+    0,
+    84
+   ],
+   "title": "GM 0:84 Lead 5 (charang)",
+   "sid": "MSB",
+   "bank": 0,
+   "prog": 84,
+   "name": "Charang",
+   "lic": "MIT",
+   "db": 0.0,
+   "explicit": true
+  },
+  "gm085": {
+   "kind": "gm",
+   "target": [
+    0,
+    85
+   ],
+   "title": "GM 0:85 Lead 6 (voice)",
+   "sid": "FR3",
+   "bank": 0,
+   "prog": 85,
+   "name": "Solo Vox",
+   "lic": "MIT",
+   "db": -1.1,
+   "explicit": true
+  },
+  "gm086": {
+   "kind": "gm",
+   "target": [
+    0,
+    86
+   ],
+   "title": "GM 0:86 Lead 7 (fifths)",
+   "sid": "MSB",
+   "bank": 0,
+   "prog": 86,
+   "name": "5th Saw Wave",
+   "lic": "MIT",
+   "db": 0.0,
+   "explicit": true
+  },
+  "gm087": {
+   "kind": "gm",
+   "target": [
+    0,
+    87
+   ],
+   "title": "GM 0:87 Lead 8 (bass + lead)",
+   "sid": "MSB",
+   "bank": 0,
+   "prog": 87,
+   "name": "Bass & Lead",
+   "lic": "MIT",
+   "db": 0.0,
+   "explicit": true
+  },
+  "gm088": {
+   "kind": "gm",
+   "target": [
+    0,
+    88
+   ],
+   "title": "GM 0:88 Pad 1 (new age)",
+   "sid": "GU",
+   "bank": 12,
+   "prog": 88,
+   "name": "Fantasia 2",
+   "lic": "GeneralUser GS v2.0",
+   "db": 2.9,
+   "explicit": true
+  },
+  "gm089": {
+   "kind": "gm",
+   "target": [
+    0,
+    89
+   ],
+   "title": "GM 0:89 Pad 2 (warm)",
+   "sid": "FR3",
+   "bank": 0,
+   "prog": 89,
+   "name": "Warm Pad",
+   "lic": "MIT",
+   "db": -9.0,
+   "explicit": true
+  },
+  "gm090": {
+   "kind": "gm",
+   "target": [
+    0,
+    90
+   ],
+   "title": "GM 0:90 Pad 3 (polysynth)",
+   "sid": "FR3M",
+   "bank": 0,
+   "prog": 90,
+   "name": "Polysynth",
+   "lic": "MIT",
+   "db": 0.0,
+   "explicit": true
+  },
+  "gm091": {
+   "kind": "gm",
+   "target": [
+    0,
+    91
+   ],
+   "title": "GM 0:91 Pad 4 (choir)",
+   "sid": "MSB",
+   "bank": 0,
+   "prog": 91,
+   "name": "Space Voice",
+   "lic": "MIT",
+   "db": 0.0,
+   "explicit": true
+  },
+  "gm092": {
+   "kind": "gm",
+   "target": [
+    0,
+    92
+   ],
+   "title": "GM 0:92 Pad 5 (bowed)",
+   "sid": "GU",
+   "bank": 0,
+   "prog": 92,
+   "name": "Bowed Glass",
+   "lic": "GeneralUser GS v2.0",
+   "db": 0.0,
+   "explicit": true
+  },
+  "gm093": {
+   "kind": "gm",
+   "target": [
+    0,
+    93
+   ],
+   "title": "GM 0:93 Pad 6 (metallic)",
+   "sid": "GU",
+   "bank": 0,
+   "prog": 93,
+   "name": "Metal Pad",
+   "lic": "GeneralUser GS v2.0",
+   "db": 1.1,
+   "explicit": true
+  },
+  "gm094": {
+   "kind": "gm",
+   "target": [
+    0,
+    94
+   ],
+   "title": "GM 0:94 Pad 7 (halo)",
+   "sid": "GU",
+   "bank": 0,
+   "prog": 94,
+   "name": "Halo Pad",
+   "lic": "GeneralUser GS v2.0",
+   "db": 0.0,
+   "explicit": true
+  },
+  "gm095": {
+   "kind": "gm",
+   "target": [
+    0,
+    95
+   ],
+   "title": "GM 0:95 Pad 8 (sweep)",
+   "sid": "GU",
+   "bank": 0,
+   "prog": 95,
+   "name": "Sweep Pad",
+   "lic": "GeneralUser GS v2.0",
+   "db": 0.0,
+   "explicit": true
+  },
+  "gm096": {
+   "kind": "gm",
+   "target": [
+    0,
+    96
+   ],
+   "title": "GM 0:96 FX 1 (rain)",
+   "sid": "GU",
+   "bank": 0,
+   "prog": 96,
+   "name": "Ice Rain",
+   "lic": "GeneralUser GS v2.0",
+   "db": 0.0,
+   "explicit": true
+  },
+  "gm097": {
+   "kind": "gm",
+   "target": [
+    0,
+    97
+   ],
+   "title": "GM 0:97 FX 2 (soundtrack)",
+   "sid": "GU",
+   "bank": 0,
+   "prog": 97,
+   "name": "Soundtrack",
+   "lic": "GeneralUser GS v2.0",
+   "db": 2.5,
+   "explicit": true
+  },
+  "gm098": {
+   "kind": "gm",
+   "target": [
+    0,
+    98
+   ],
+   "title": "GM 0:98 FX 3 (crystal)",
+   "sid": "MSB",
+   "bank": 0,
+   "prog": 98,
+   "name": "Crystal",
+   "lic": "MIT",
+   "db": 0.0,
+   "explicit": true
+  },
+  "gm099": {
+   "kind": "gm",
+   "target": [
+    0,
+    99
+   ],
+   "title": "GM 0:99 FX 4 (atmosphere)",
+   "sid": "GU",
+   "bank": 0,
+   "prog": 99,
+   "name": "Atmosphere",
+   "lic": "GeneralUser GS v2.0",
+   "db": 0.0,
+   "explicit": true
+  },
+  "gm100": {
+   "kind": "gm",
+   "target": [
+    0,
+    100
+   ],
+   "title": "GM 0:100 FX 5 (brightness)",
+   "sid": "GU",
+   "bank": 0,
+   "prog": 100,
+   "name": "Brightness",
+   "lic": "GeneralUser GS v2.0",
+   "db": -1.6,
+   "explicit": true
+  },
+  "gm101": {
+   "kind": "gm",
+   "target": [
+    0,
+    101
+   ],
+   "title": "GM 0:101 FX 6 (goblins)",
+   "sid": "FR3",
+   "bank": 0,
+   "prog": 101,
+   "name": "Goblin",
+   "lic": "MIT",
+   "db": 0.0,
+   "explicit": true
+  },
+  "gm102": {
+   "kind": "gm",
+   "target": [
+    0,
+    102
+   ],
+   "title": "GM 0:102 FX 7 (echoes)",
+   "sid": "GU",
+   "bank": 0,
+   "prog": 102,
+   "name": "Echo Drops",
+   "lic": "GeneralUser GS v2.0",
+   "db": 0.0,
+   "explicit": true
+  },
+  "gm103": {
+   "kind": "gm",
+   "target": [
+    0,
+    103
+   ],
+   "title": "GM 0:103 FX 8 (sci-fi)",
+   "sid": "FR3M",
+   "bank": 0,
+   "prog": 103,
+   "name": "Star Theme",
+   "lic": "MIT",
+   "db": 0.0,
+   "explicit": true
+  },
+  "gm104": {
+   "kind": "gm",
+   "target": [
+    0,
+    104
+   ],
+   "title": "GM 0:104 Sitar",
+   "sid": "FR3",
+   "bank": 0,
+   "prog": 104,
+   "name": "Sitar",
+   "lic": "MIT",
+   "db": -2.5,
+   "explicit": true
+  },
+  "gm105": {
+   "kind": "gm",
+   "target": [
+    0,
+    105
+   ],
+   "title": "GM 0:105 Banjo",
+   "sid": "GU",
+   "bank": 0,
+   "prog": 105,
+   "name": "Banjo",
+   "lic": "GeneralUser GS v2.0",
+   "db": 1.7,
+   "explicit": true
+  },
+  "gm106": {
+   "kind": "gm",
+   "target": [
+    0,
+    106
+   ],
+   "title": "GM 0:106 Shamisen",
+   "sid": "FR3",
+   "bank": 0,
+   "prog": 106,
+   "name": "Shamisen",
+   "lic": "MIT",
+   "db": -3.4,
+   "explicit": true
+  },
+  "gm107": {
+   "kind": "gm",
+   "target": [
+    0,
+    107
+   ],
+   "title": "GM 0:107 Koto",
+   "sid": "GU",
+   "bank": 8,
+   "prog": 107,
+   "name": "Taisho Koto",
+   "lic": "GeneralUser GS v2.0",
+   "db": 1.8,
+   "explicit": true
+  },
+  "gm108": {
+   "kind": "gm",
+   "target": [
+    0,
+    108
+   ],
+   "title": "GM 0:108 Kalimba",
+   "sid": "FR3M",
+   "bank": 0,
+   "prog": 108,
+   "name": "Kalimba",
+   "lic": "MIT",
+   "db": 0.0,
+   "explicit": true
+  },
+  "gm109": {
+   "kind": "gm",
+   "target": [
+    0,
+    109
+   ],
+   "title": "GM 0:109 Bagpipe",
+   "sid": "FR3M",
+   "bank": 0,
+   "prog": 109,
+   "name": "Bagpipe",
+   "lic": "MIT",
+   "db": 0.0,
+   "explicit": true
+  },
+  "gm110": {
+   "kind": "gm",
+   "target": [
+    0,
+    110
+   ],
+   "title": "GM 0:110 Fiddle",
+   "sid": "GU",
+   "bank": 0,
+   "prog": 110,
+   "name": "Fiddle",
+   "lic": "GeneralUser GS v2.0",
+   "db": -7.0,
+   "explicit": true
+  },
+  "gm111": {
+   "kind": "gm",
+   "target": [
+    0,
+    111
+   ],
+   "title": "GM 0:111 Shanai",
+   "sid": "FR3",
+   "bank": 0,
+   "prog": 111,
+   "name": "Shenai",
+   "lic": "MIT",
+   "db": -1.5,
+   "explicit": true
+  },
+  "gm112": {
+   "kind": "gm",
+   "target": [
+    0,
+    112
+   ],
+   "title": "GM 0:112 Tinkle Bell",
+   "sid": "GU",
+   "bank": 0,
+   "prog": 112,
+   "name": "Tinker Bell",
+   "lic": "GeneralUser GS v2.0",
+   "db": -1.8,
+   "explicit": true
+  },
+  "gm113": {
+   "kind": "gm",
+   "target": [
+    0,
+    113
+   ],
+   "title": "GM 0:113 Agogo",
+   "sid": "GU",
+   "bank": 0,
+   "prog": 113,
+   "name": "Agogo",
+   "lic": "GeneralUser GS v2.0",
+   "db": -6.2,
+   "explicit": true
+  },
+  "gm114": {
+   "kind": "gm",
+   "target": [
+    0,
+    114
+   ],
+   "title": "GM 0:114 Steel Drums",
+   "sid": "GU",
+   "bank": 0,
+   "prog": 114,
+   "name": "Steel Drums",
+   "lic": "GeneralUser GS v2.0",
+   "db": -1.6,
+   "explicit": true
+  },
+  "gm115": {
+   "kind": "gm",
+   "target": [
+    0,
+    115
+   ],
+   "title": "GM 0:115 Woodblock",
+   "sid": "FR3",
+   "bank": 0,
+   "prog": 115,
+   "name": "Woodblock",
+   "lic": "MIT",
+   "db": -3.9,
+   "explicit": true
+  },
+  "gm116": {
+   "kind": "gm",
+   "target": [
+    0,
+    116
+   ],
+   "title": "GM 0:116 Taiko Drum",
+   "sid": "GU",
+   "bank": 0,
+   "prog": 116,
+   "name": "Taiko Drum",
+   "lic": "GeneralUser GS v2.0",
+   "db": -3.9,
+   "explicit": true
+  },
+  "gm117": {
+   "kind": "gm",
+   "target": [
+    0,
+    117
+   ],
+   "title": "GM 0:117 Melodic Tom",
+   "sid": "GU",
+   "bank": 0,
+   "prog": 117,
+   "name": "Melodic Tom",
+   "lic": "GeneralUser GS v2.0",
+   "db": -3.7,
+   "explicit": true
+  },
+  "gm118": {
+   "kind": "gm",
+   "target": [
+    0,
+    118
+   ],
+   "title": "GM 0:118 Synth Drum",
+   "sid": "GU",
+   "bank": 0,
+   "prog": 118,
+   "name": "Synth Drum",
+   "lic": "GeneralUser GS v2.0",
+   "db": 4.5,
+   "explicit": true
+  },
+  "gm119": {
+   "kind": "gm",
+   "target": [
+    0,
+    119
+   ],
+   "title": "GM 0:119 Reverse Cymbal",
+   "sid": "GU",
+   "bank": 0,
+   "prog": 119,
+   "name": "Reverse Cymbal",
+   "lic": "GeneralUser GS v2.0",
+   "db": 4.0,
+   "explicit": true
+  },
+  "gm120": {
+   "kind": "gm",
+   "target": [
+    0,
+    120
+   ],
+   "title": "GM 0:120 Guitar Fret Noise",
+   "sid": "MSB",
+   "bank": 0,
+   "prog": 120,
+   "name": "Fret Noise",
+   "lic": "MIT",
+   "db": 0.0,
+   "explicit": true
+  },
+  "gm121": {
+   "kind": "gm",
+   "target": [
+    0,
+    121
+   ],
+   "title": "GM 0:121 Breath Noise",
+   "sid": "GU",
+   "bank": 0,
+   "prog": 121,
+   "name": "Breath Noise",
+   "lic": "GeneralUser GS v2.0",
+   "db": 11.6,
+   "explicit": true
+  },
+  "gm122": {
+   "kind": "gm",
+   "target": [
+    0,
+    122
+   ],
+   "title": "GM 0:122 Seashore",
+   "sid": "GU",
+   "bank": 0,
+   "prog": 122,
+   "name": "Seashore",
+   "lic": "GeneralUser GS v2.0",
+   "db": 1.2,
+   "explicit": true
+  },
+  "gm123": {
+   "kind": "gm",
+   "target": [
+    0,
+    123
+   ],
+   "title": "GM 0:123 Bird Tweet",
+   "sid": "GU",
+   "bank": 0,
+   "prog": 123,
+   "name": "Birds",
+   "lic": "GeneralUser GS v2.0",
+   "db": 8.7,
+   "explicit": true
+  },
+  "gm124": {
+   "kind": "gm",
+   "target": [
+    0,
+    124
+   ],
+   "title": "GM 0:124 Telephone Ring",
+   "sid": "FR3",
+   "bank": 0,
+   "prog": 124,
+   "name": "Telephone",
+   "lic": "MIT",
+   "db": -1.2,
+   "explicit": true
+  },
+  "gm125": {
+   "kind": "gm",
+   "target": [
+    0,
+    125
+   ],
+   "title": "GM 0:125 Helicopter",
+   "sid": "MSB",
+   "bank": 0,
+   "prog": 125,
+   "name": "Helicopter",
+   "lic": "MIT",
+   "db": 0.0,
+   "explicit": true
+  },
+  "gm126": {
+   "kind": "gm",
+   "target": [
+    0,
+    126
+   ],
+   "title": "GM 0:126 Applause",
+   "sid": "FR3",
+   "bank": 0,
+   "prog": 126,
+   "name": "Applause",
+   "lic": "MIT",
+   "db": -1.4,
+   "explicit": true
+  },
+  "gm127": {
+   "kind": "gm",
+   "target": [
+    0,
+    127
+   ],
+   "title": "GM 0:127 Gunshot",
+   "sid": "FR3",
+   "bank": 0,
+   "prog": 127,
+   "name": "Gun Shot",
+   "lic": "MIT",
+   "db": 0.0,
+   "explicit": true
+  },
+  "kit000": {
+   "kind": "kit",
+   "target": [
+    128,
+    0
+   ],
+   "title": "Batteria 128:0",
+   "sid": "FR3",
+   "bank": 128,
+   "prog": 0,
+   "name": "Standard",
+   "lic": "MIT",
+   "db": -1.5,
+   "explicit": true
+  }
+ }
+}
