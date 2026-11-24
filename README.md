@@ -5,6 +5,9 @@ Soundfont **General MIDI** in formato **SF3**: 128 strumenti (banco 0) e batteri
 Come il costume di Arlecchino è fatto di toppe di stoffe diverse, questo soundfont è composto da preset scelti uno per uno,
 all'ascolto, fra sei soundfont liberi.
 
+Arlecchino nasce come soundfont per [Canovaccio](https://github.com/badpenguin/canovaccio/), programma di notazione
+musicale ed editor MIDI.
+
 
 ## Caratteristiche
 
